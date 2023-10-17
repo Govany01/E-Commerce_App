@@ -1,16 +1,22 @@
-# final_project
+#E_Commerce_App
 
-A new Flutter project.
+E-Commerce_App using dart (Flutter)
 
-## Getting Started
+    the logo is designed by me using a templete from FreePik website.
 
-This project is a starting point for a Flutter application.
+    the data in the market cached from the endpoint: https://dummyjson.com/products
 
-A few resources to get you started if this is your first Flutter project:
+    Images of products is previewed using carousel slider (hint : https://pub.dev/packages/carousel_slider)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    the Authentication is done by Firebase Auth and Users.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    cart screen is coded using Provider Package.
+
+    when the app closed the cart will be cleared.
+
+    when close the app and reopen it the user not need to log in again.
+
+    validation was done in Sign up and log In Screens where, when the user enter a password not equal the confrimed passsword then the app will give the user a message "Password not Matched" and other validations in all Text fields.
+
+    thank you ...
+
