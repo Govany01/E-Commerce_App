@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159301536916",
+    "project_id": "cityshop-bb342",
+    "storage_bucket": "cityshop-bb342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159301536916:android:feb8dd6d8d0e3dd68ab881",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1DRonIkq4D1q46YpC6viA5lKquDPo-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
